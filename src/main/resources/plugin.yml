@@ -1,0 +1,8 @@
+name: JoinMessage
+main: bitterpeace.joinmessage.JoinMessagePlugin
+version: "1.0.0"
+api: ["1.0.7"]
+load: POSTWORLD
+author: BitterPeaceV
+description: exsample plugin
+website: https://github.com/BitterPeaceV/JoinMessage
